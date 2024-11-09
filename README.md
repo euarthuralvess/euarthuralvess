@@ -1,9 +1,9 @@
 ### Hey, guys! 👋
 ## I'm Arthur Alves
 - I live in :brazil:, Natal - RN 
-- I have been working on GCTI as Technical Advisor :computer:
-- I have been learnig more about HelpDesk Support, Network monitoring :man_technologist:
-- Caso queira seguir conteúdos através do meu perfil do [instagram](https://www.instagram.com/euarthuralvess/) conecte-se no link ou clique abaixo :point_down:
+- I have been working on AA Consulting and IT Solution as Cybersecurity Analyst :computer:
+- I have been learnig more about Cybersecurity and I'm an IoT and hardware hacking enthusiast :man_technologist:
+- If you want to follow content through my [instagram] profile (https://www.instagram.com/euarthuralvess/) connect to the link or click below :point_down:
 
 
 ## 🚀 Connect with me:
